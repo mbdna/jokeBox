@@ -1,0 +1,3 @@
+file joke18.wav
+file silence.wav
+file answer18.wav
